@@ -1,3 +1,6 @@
+# Update from main account
+This is the main account edit to intentionally create a merge conflict.
+
 # Welcome to your Lovable project
 
 ## Project info
