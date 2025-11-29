@@ -1,5 +1,4 @@
-# Update from main account
-This is the main account edit to intentionally create a merge conflict.
+This is a test update for the Git collaboration assignment.
 
 # Welcome to your Lovable project
 
