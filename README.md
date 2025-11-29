@@ -1,3 +1,6 @@
+# Update by contributor userTemp31
+This is a test update for the Git collaboration assignment.
+
 # Welcome to your Lovable project
 
 ## Project info
